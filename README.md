@@ -126,7 +126,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/BiteNow-Restaurant-App.git
+   git clone https://github.com/m7mad420/BiteNow-Restaurant-App.git
    cd BiteNow-Restaurant-App
    ```
 
