@@ -1,7 +1,7 @@
 # 🍔 BiteNow - Restaurant Delivery App
 
 <p align="center">
-  <img src="icon.png" alt="BiteNow Logo" width="120" height="120">
+  <img src="assets/icon.png" alt="BiteNow Logo" width="120" height="120">
 </p>
 
 <p align="center">
@@ -9,11 +9,39 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-0.76-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-52-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+  <img src="https://img.shields.io/badge/React_Native-0.81-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+  <img src="https://img.shields.io/badge/Expo-54-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Zustand-4.4-orange?style=for-the-badge" alt="Zustand">
 </p>
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/onboarding.png" width="180" alt="Onboarding">
+  <img src="screenshots/login.png" width="180" alt="Login">
+  <img src="screenshots/restaurants.png" width="180" alt="Restaurants">
+  <img src="screenshots/menu.png" width="180" alt="Menu">
+</p>
+
+<p align="center">
+  <img src="screenshots/cart.png" width="180" alt="Cart">
+  <img src="screenshots/checkout.png" width="180" alt="Checkout">
+  <img src="screenshots/orders.png" width="180" alt="Orders">
+  <img src="screenshots/profile.png" width="180" alt="Profile">
+</p>
+
+## 🎬 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube">
+  </a>
+</p>
+
+> 📺 **[Watch the full demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
 
 ---
 
@@ -202,22 +230,6 @@ For testing with mock data:
 - **Accent**: Golden Yellow (#FFB800)
 - **Design System**: Material Design 3 via React Native Paper
 
-## 📸 Screenshots
-
-<p align="center">
-  <i>Screenshots coming soon...</i>
-</p>
-
-<!-- 
-Add your screenshots here:
-<p align="center">
-  <img src="screenshots/home.png" width="200" alt="Home Screen">
-  <img src="screenshots/menu.png" width="200" alt="Menu Screen">
-  <img src="screenshots/cart.png" width="200" alt="Cart Screen">
-  <img src="screenshots/orders.png" width="200" alt="Orders Screen">
-</p>
--->
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -233,6 +245,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
+
+**m7mad420**
 
 Made with ❤️ using React Native and Expo
 
