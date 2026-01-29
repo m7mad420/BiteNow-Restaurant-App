@@ -1,47 +1,9 @@
 # 🍔 BiteNow - Restaurant Delivery App
 
-<p align="center">
-  <img src="assets/icon.png" alt="BiteNow Logo" width="120" height="120">
-</p>
 
 <p align="center">
   A full-featured food delivery mobile application built with React Native and Expo
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-0.81-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
-  <img src="https://img.shields.io/badge/Expo-54-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
-  <img src="https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Zustand-4.4-orange?style=for-the-badge" alt="Zustand">
-</p>
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/onboarding.png" width="180" alt="Onboarding">
-  <img src="screenshots/login.png" width="180" alt="Login">
-  <img src="screenshots/restaurants.png" width="180" alt="Restaurants">
-  <img src="screenshots/menu.png" width="180" alt="Menu">
-</p>
-
-<p align="center">
-  <img src="screenshots/cart.png" width="180" alt="Cart">
-  <img src="screenshots/checkout.png" width="180" alt="Checkout">
-  <img src="screenshots/orders.png" width="180" alt="Orders">
-  <img src="screenshots/profile.png" width="180" alt="Profile">
-</p>
-
-## 🎬 Demo Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube">
-  </a>
-</p>
-
-> 📺 **[Watch the full demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
 
 ---
 
