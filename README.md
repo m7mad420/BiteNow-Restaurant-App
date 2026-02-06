@@ -17,37 +17,43 @@
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/onboarding.png" width="180" alt="Onboarding">
-  <img src="screenshots/login.png" width="180" alt="Login">
-  <img src="screenshots/restaurants.png" width="180" alt="Restaurants">
-  <img src="screenshots/menu.png" width="180" alt="Menu">
-</p>
-
-<p align="center">
-  <img src="screenshots/cart.png" width="180" alt="Cart">
-  <img src="screenshots/checkout.png" width="180" alt="Checkout">
-  <img src="screenshots/orders.png" width="180" alt="Orders">
-  <img src="screenshots/profile.png" width="180" alt="Profile">
-</p>
-
-## 🎬 Demo Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube">
-  </a>
-</p>
-
-> 📺 **[Watch the full demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
-
----
-
-## 📱 Overview
+## � Overview
 
 **BiteNow** is a comprehensive restaurant ordering application that provides a seamless food delivery experience. The app features separate interfaces for customers and restaurant administrators, complete with real-time order tracking, shopping cart management, and user authentication.
+
+## 📸 Screenshots
+
+| # | Screen | Description |
+|---|--------|-------------|
+| 1 | My Orders | View completed orders history |
+| 2 | Order Details | Track order status in real-time |
+| 3 | Checkout (Address) | Enter delivery address |
+| 4 | Home | Browse restaurants with filters |
+| 5 | Restaurant Detail | View restaurant info |
+| 6 | Menu | Browse menu items by category |
+| 7 | Cart | Review items before checkout |
+| 8 | Order Success | Order confirmation screen |
+| 9 | Checkout (Payment) | Select payment method |
+| 10 | Cart (Burger) | Cart with burger item |
+
+<p align="center">
+  <img src="screenshots/1.png" width="180" alt="My Orders">
+  <img src="screenshots/2.png" width="180" alt="Order Details">
+  <img src="screenshots/3.png" width="180" alt="Checkout Address">
+  <img src="screenshots/4.png" width="180" alt="Restaurants">
+</p>
+
+<p align="center">
+  <img src="screenshots/5.png" width="180" alt="Restaurant Detail">
+  <img src="screenshots/6.png" width="180" alt="Menu">
+  <img src="screenshots/7.png" width="180" alt="Cart">
+  <img src="screenshots/8.png" width="180" alt="Order Success">
+</p>
+
+<p align="center">
+  <img src="screenshots/9.png" width="180" alt="Checkout Payment">
+  <img src="screenshots/10.png" width="180" alt="Cart Burger">
+</p>
 
 ## ✨ Features
 
