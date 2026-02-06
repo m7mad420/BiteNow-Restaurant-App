@@ -1,10 +1,6 @@
 # 🍔 BiteNow - Restaurant Delivery App
 
 <p align="center">
-  <img src="assets/icon.png" alt="BiteNow Logo" width="120" height="120">
-</p>
-
-<p align="center">
   A full-featured food delivery mobile application built with React Native and Expo
 </p>
 
@@ -17,7 +13,7 @@
 
 ---
 
-## � Overview
+## 📱 Overview
 
 **BiteNow** is a comprehensive restaurant ordering application that provides a seamless food delivery experience. The app features separate interfaces for customers and restaurant administrators, complete with real-time order tracking, shopping cart management, and user authentication.
 
